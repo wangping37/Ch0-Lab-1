@@ -4,6 +4,7 @@ int	main(void)
 {
 	printf("Welcome	to	C!\n");
 	printf("My student id:106360237\n");
+	printf("My name	is	Tony.\n");
 	system("pause");
 	return	0;
 }
